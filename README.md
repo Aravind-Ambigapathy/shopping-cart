@@ -1,6 +1,9 @@
 # Shopping Cart Built in React JS with Context API and useReducer
 
-### Live Demo - https://shopping-cart-with-reactjs.netlify.app/
-## [Watch Full Tutorial on Roadside Coder Channel](https://www.youtube.com/roadsidecoder)
+### Live Demo -
 
-![SHOPPING CART](https://user-images.githubusercontent.com/51760520/137257892-5bc9526b-4c59-4054-b255-337dc2c90123.png)
+//steps to run the project
+1. do "npm install" in terminal
+2. run the project using command "npm run start"
+
+
