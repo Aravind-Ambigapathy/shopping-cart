@@ -11,7 +11,7 @@ function App() {
       <div className="App">
         <Route path="/" exact>
           <Home />
-        </Route>
+        </Route>11
         <Route path="/cart">
           <Cart />
         </Route>
